@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+scikit-learn
+notebook
+keras
+tensorflow
+flask
+spacy
